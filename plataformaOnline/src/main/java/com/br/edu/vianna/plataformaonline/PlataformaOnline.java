@@ -13,6 +13,7 @@ import com.br.edu.vianna.plataformaonline.model.Usuario;
  *
  * @author aluno
  */
+
 public class PlataformaOnline {
 
     public static void main(String[] args) {
